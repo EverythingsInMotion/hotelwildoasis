@@ -1,4 +1,3 @@
 #Hotel Wild Oasis
 
-Main Project
-# hotelwildoasis
+Main Project built with React Query and Supabase.
